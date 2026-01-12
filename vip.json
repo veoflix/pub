@@ -4,15 +4,13 @@
       "mobile_number": "09982481331",
       "vip_id": "1b0f1a841faeac54",
       "access_start": "2026-01-01",
-      "access_end": "2026-12-12",
-      "vip_type": "basic"
+      "access_end": "2026-12-12"
     },
     {
       "mobile_number": "09181234567",
       "vip_id": "516ce74bc20e3c1bb32084ba972d22da",
       "access_start": "2025-07-27",
-      "access_end": "2050-08-27",
-      "vip_type": "premium"
+      "access_end": "2050-08-27"
     }
   ]
 }
