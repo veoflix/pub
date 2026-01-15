@@ -10,7 +10,9 @@
       "mobile_number": "09181234567",
       "vip_id": "e759a46a4ead14f3",
       "access_start": "2026-01-01",
-      "access_end": "2026-12-12"
+      "access_end": "2026-12-12",
+      "is_trial": true
+      
     },
     {
       "mobile_number": "09181234567",
