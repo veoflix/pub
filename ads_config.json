@@ -2,6 +2,6 @@
   "rewarded": {
     "enabled": true,
     "unit_id": "ca-app-pub-4695561315155863/7066737305",
-    "interval_episodes": 5
+    "interval_episodes": 2
   }
 }
