@@ -1,7 +1,8 @@
 {
   "interstitial": {
     "enabled": true,
-    "unit_id": "ca-app-pub-4695561315155863/1424663853",
+    "game_id": "5953257",
+    "placement_id": "Interstitial_Android",
     "interval_episodes": 4
   }
 }
