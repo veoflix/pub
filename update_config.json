@@ -1,9 +1,10 @@
 {
   "version": "2.0.1",
+  "version_code": 32,
   "apk_url": "https://freeshortdrama.app/apk/ShortDrama-v2.0.1.apk",
   "force_download": true,
   "whats_new": [
     "Fast Server.",
-    "Faster episode loading.",
+    "Faster episode loading."
   ]
 }
