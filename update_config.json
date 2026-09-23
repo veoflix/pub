@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0",
-  "apk_url": "https://freeshortdrama.app/apk/ShortDrama-v2.0.0.apk",
+  "version": "2.0.1",
+  "apk_url": "https://freeshortdrama.app/apk/ShortDrama-v2.0.1.apk",
   "force_download": true,
   "whats_new": [
-    "New 48 drama providers",
-    "Faster episode loading"
+    "Fast Server.",
+    "Faster episode loading.",
   ]
 }
