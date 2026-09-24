@@ -1,0 +1,16 @@
+{
+  "enabled": false,
+  "force_update": true,
+  "soft_update": true,
+  "show_dialog": true,
+  "message_links": true,
+  "link_enabled": true,
+  "min_version_code": 1,
+  "latest_version_code": 1,
+  "latest_version_name": "1.0.0",
+  "dialog_title": "Update required",
+  "message": "A new version of LimeDrama is required. Please update to continue.\n\nWhat's new: https://freeshortdrama.app",
+  "link_text": "Open Google Play",
+  "link_url": "https://play.google.com/store/apps/details?id=com.limedrama",
+  "store_url": "https://play.google.com/store/apps/details?id=com.limedrama"
+}
