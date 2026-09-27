@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "force_update": true,
-  "soft_update": true,
+  "soft_update": false,
   "show_dialog": true,
   "message_links": true,
   "link_enabled": false,
