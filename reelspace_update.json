@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "force_update": true,
   "soft_update": false,
   "show_dialog": true,
