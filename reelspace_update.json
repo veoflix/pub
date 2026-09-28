@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "force_update": true,
+  "force_update": false,
   "soft_update": false,
   "show_dialog": true,
   "message_links": true,
