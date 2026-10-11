@@ -1,13 +1,14 @@
 {
-  "version": "2.1.2",
-  "version_code": 34,
+  "version": "2.1.3",
+  "version_code": 35,
   "force_update": true,
-  "min_version_code": 34,
+  "min_version_code": 35,
   "force_download": true,
-  "apk_url": "https://freeshortdrama.app/apk/ShortDrama-v2.1.2.apk",
+  "apk_url": "https://freeshortdrama.app/apk/ShortDrama-v2.1.3.apk",
   "whats_new": [
-    "Fixed Search Bugs,",
-    "Fixed Frequent Buffering.",
-    "Fixed minor bugs.,"
+                "New Kiss18+ provider (For Adults Only)",
+                "What's New page in My List",
+                "Stability fixes for provider browsing",
+                "Offline Download Fixed."
   ]
 }
