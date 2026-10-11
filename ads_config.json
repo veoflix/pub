@@ -1,11 +1,11 @@
 {
   "interstitial": {
     "enabled": true,
-    "interval_episodes": 4,
+    "interval_episodes": 5,
     "admob_enabled": true,
     "unit_id": "ca-app-pub-4695561315155863/5258489049",
     "unity": {
-      "enabled": false,
+      "enabled": true,
       "game_id": "5953257",
       "placement_id": "Interstitial_Android",
       "test_mode": false
