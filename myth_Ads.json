@@ -1,0 +1,18 @@
+{
+  "interstitial": {
+    "enabled": true,
+    "interval_episodes": 4,
+    "order": ["admob", "unity"],
+    "unit_id": "ca-app-pub-9868073814793133/3840777230",
+    "admob": {
+      "enabled": true,
+      "unit_id": "ca-app-pub-9868073814793133/3840777230"
+    },
+    "unity": {
+      "enabled": false,
+      "game_id": "YOUR_UNITY_GAME_ID",
+      "placement_id": "Interstitial_Android",
+      "test_mode": false
+    }
+  }
+}
