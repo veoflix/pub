@@ -1,11 +1,11 @@
 {
-  "version": "2.1.4",
-  "version_code": 36,
+  "version": "2.1.5",
+  "version_code": 37,
   "force_update": true,
-  "min_version_code": 36,
+  "min_version_code": 37,
   "force_download": true,
-  "apk_url": "https://freeshortdrama.app/apk/ShortDrama-v2.1.4.apk",
+  "apk_url": "https://freeshortdrama.app/apk/ShortDrama-v2.1.5.apk",
   "whats_new": [
-                "New Server Update.",
+                "Fixed Minor bugs and Error",
   ]
 }
