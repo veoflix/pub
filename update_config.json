@@ -1,11 +1,11 @@
 {
-  "version": "2.1.5",
-  "version_code": 37,
+  "version": "2.1.8",
+  "version_code": 38,
   "force_update": true,
-  "min_version_code": 37,
+  "min_version_code": 38,
   "force_download": true,
-  "apk_url": "https://freeshortdrama.app/apk/ShortDrama-v2.1.5.apk",
+  "apk_url": "https://freeshortdrama.app/apk/ShortDrama-v2.1.8.apk",
   "whats_new": [
-                "Fixed Minor bugs and Error",
+                "Fixed content error.",
   ]
 }
