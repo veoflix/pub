@@ -1,10 +1,10 @@
 {
-  "version": "2.1.9",
-  "version_code": 39,
+  "version": "2.2.0",
+  "version_code": 40,
   "force_update": true,
-  "min_version_code": 39,
+  "min_version_code": 40,
   "force_download": true,
-  "apk_url": "https://freeshortdrama.app/apk/ShortDrama-v2.1.9.apk",
+  "apk_url": "https://freeshortdrama.app/apk/ShortDrama-v2.2.0.apk",
   "whats_new": [
                 "Fixed content error.",
   ]
