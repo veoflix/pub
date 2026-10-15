@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
-  "version_code": 40,
+  "version": "2.2.1",
+  "version_code": 41,
   "force_update": true,
-  "min_version_code": 40,
+  "min_version_code": 41,
   "force_download": true,
   "apk_url": "https://freeshortdrama.app/apk/ShortDrama-v2.2.0.apk",
   "whats_new": [
