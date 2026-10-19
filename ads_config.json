@@ -3,6 +3,18 @@
     "enabled": false,
     "game_id": "5953257",
     "placement_id": "Interstitial_Android",
-    "interval_episodes": 5
+    "interval_episodes": 5,
+    "min_watch_seconds": 4
+  },
+  "affiliate": {
+    "enabled": true,
+    "interval_episodes": 15,
+    "links": [
+      "https://s.shopee.ph/9V2LxHwLdQ"
+    ],
+    "app_packages": [
+      "com.shopee.ph",
+      "com.shopee"
+    ]
   }
 }
