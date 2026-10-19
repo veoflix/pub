@@ -1,6 +1,6 @@
 {
   "interstitial": {
-    "enabled": true,
+    "enabled": false,
     "game_id": "5953257",
     "placement_id": "Interstitial_Android",
     "interval_episodes": 5
