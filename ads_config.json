@@ -8,7 +8,7 @@
   },
   "affiliate": {
     "enabled": true,
-    "interval_episodes": 5,
+    "interval_episodes": 15,
     "links": [
       "https://s.shopee.ph/9V2LxHwLdQ"
     ],
