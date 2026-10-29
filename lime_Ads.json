@@ -1,11 +1,11 @@
 {
   "interstitial": {
-    "enabled": true,
+    "enabled": false,
     "interval_episodes": 4,
     "order": ["admob", "unity"],
     "unit_id": "ca-app-pub-9868073814793133/3840777230",
     "admob": {
-      "enabled": true,
+      "enabled": false,
       "unit_id": "ca-app-pub-9868073814793133/3840777230"
     },
     "unity": {
