@@ -3,10 +3,10 @@
     "enabled": true,
     "interval_episodes": 4,
     "order": ["admob", "unity"],
-    "unit_id": "",
+    "unit_id": "ca-app-pub-9283772397659114/5896840764",
     "admob": {
       "enabled": true,
-      "unit_id": ""
+      "unit_id": "ca-app-pub-9283772397659114/5896840764"
     },
     "unity": {
       "enabled": false,
